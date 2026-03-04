@@ -3,3 +3,4 @@
 ## Lista de colaboradores
 - Sebastian Diaz
 - Sebastian Jaimes 
+- Profe Carlos
